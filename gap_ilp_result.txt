@@ -1,0 +1,84 @@
+
+========= Dataset: GAP 1 =========
+Problem c515-1 | Total Cost:    336
+Problem c515-2 | Total Cost:    327
+Problem c515-3 | Total Cost:    339
+Problem c515-4 | Total Cost:    341
+Problem c515-5 | Total Cost:    326
+
+========= Dataset: GAP 2 =========
+Problem c520-1 | Total Cost:    434
+Problem c520-2 | Total Cost:    436
+Problem c520-3 | Total Cost:    420
+Problem c520-4 | Total Cost:    419
+Problem c520-5 | Total Cost:    428
+
+========= Dataset: GAP 3 =========
+Problem c525-1 | Total Cost:    580
+Problem c525-2 | Total Cost:    564
+Problem c525-3 | Total Cost:    573
+Problem c525-4 | Total Cost:    570
+Problem c525-5 | Total Cost:    564
+
+========= Dataset: GAP 4 =========
+Problem c530-1 | Total Cost:    656
+Problem c530-2 | Total Cost:    644
+Problem c530-3 | Total Cost:    673
+Problem c530-4 | Total Cost:    647
+Problem c530-5 | Total Cost:    664
+
+========= Dataset: GAP 5 =========
+Problem c824-1 | Total Cost:    563
+Problem c824-2 | Total Cost:    558
+Problem c824-3 | Total Cost:    564
+Problem c824-4 | Total Cost:    568
+Problem c824-5 | Total Cost:    559
+
+========= Dataset: GAP 6 =========
+Problem c832-1 | Total Cost:    761
+Problem c832-2 | Total Cost:    759
+Problem c832-3 | Total Cost:    758
+Problem c832-4 | Total Cost:    752
+Problem c832-5 | Total Cost:    747
+
+========= Dataset: GAP 7 =========
+Problem c840-1 | Total Cost:    942
+Problem c840-2 | Total Cost:    949
+Problem c840-3 | Total Cost:    968
+Problem c840-4 | Total Cost:    945
+Problem c840-5 | Total Cost:    951
+
+========= Dataset: GAP 8 =========
+Problem c848-1 | Total Cost:   1133
+Problem c848-2 | Total Cost:   1134
+Problem c848-3 | Total Cost:   1141
+Problem c848-4 | Total Cost:   1117
+Problem c848-5 | Total Cost:   1127
+
+========= Dataset: GAP 9 =========
+Problem c1030-1 | Total Cost:    709
+Problem c1030-2 | Total Cost:    717
+Problem c1030-3 | Total Cost:    712
+Problem c1030-4 | Total Cost:    723
+Problem c1030-5 | Total Cost:    706
+
+========= Dataset: GAP 10 =========
+Problem c1040-1 | Total Cost:    958
+Problem c1040-2 | Total Cost:    963
+Problem c1040-3 | Total Cost:    960
+Problem c1040-4 | Total Cost:    947
+Problem c1040-5 | Total Cost:    947
+
+========= Dataset: GAP 11 =========
+Problem c1050-1 | Total Cost:   1139
+Problem c1050-2 | Total Cost:   1178
+Problem c1050-3 | Total Cost:   1195
+Problem c1050-4 | Total Cost:   1171
+Problem c1050-5 | Total Cost:   1171
+
+========= Dataset: GAP 12 =========
+Problem c1060-1 | Total Cost:   1451
+Problem c1060-2 | Total Cost:   1449
+Problem c1060-3 | Total Cost:   1433
+Problem c1060-4 | Total Cost:   1447
+Problem c1060-5 | Total Cost:   1446
